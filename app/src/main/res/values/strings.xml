@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Kamera Bluno App</string>
+    <string name="ble_not_supported">Bluetooth LE ei ole tuettu</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Laite:</string>
+    <string name="label_state">Tila:</string>
+    <string name="no_data">Ei dataa</string>
+    <string name="connected">Yhdistetty</string>
+    <string name="disconnected">Yhteys katkaistu</string>
+    <string name="title_devices">Löydetyt Laitteet:</string>
+    <string name="error_bluetooth_not_supported">Bluetooth ei ole tuettu</string>
+    <string name="unknown_device">Tuntematon laite</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Tuntematon palvelu</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Yhdistä</string>
+    <string name="menu_disconnect">Katkaise yhteys</string>
+    <string name="menu_scan">Etsi</string>
+    <string name="menu_stop">Keskeytä</string>
+    <string name="action_settings">Action settings</string>
+    <string name="received_data">Loki:</string>
+    <string name="scan">Etsi</string>
+</resources>

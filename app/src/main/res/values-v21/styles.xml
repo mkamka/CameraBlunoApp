@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- inherit from the material theme -->
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <!-- Main theme colors -->
+        <!--   your app branding color for the app bar -->
+        <item name="android:colorPrimary">@color/md_blue_500</item>
+        <!--   darker variant for the status bar and contextual app bars -->
+        <item name="android:colorPrimaryDark">@color/md_blue_900</item>
+        <item name="android:textColorPrimary">@color/md_white_1000</item>
+        <item name="android:navigationBarColor">@color/md_blue_A700</item>
+    </style>
+</resources>
